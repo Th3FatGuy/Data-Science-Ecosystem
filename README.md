@@ -1,10 +1,4 @@
 # Data-Science-Ecosystem
- 
-
-+
--
-
-Estimated Time: 30 mins
 
 Objective
 In this final assignment, you will:
